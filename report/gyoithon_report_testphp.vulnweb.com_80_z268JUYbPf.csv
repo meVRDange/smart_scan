@@ -1,0 +1,7 @@
+fqdn,ip_addr,port,cloud_type,method,origin_url,url,vendor_name,prod_name,prod_version,prod_trigger,prod_type,prod_vuln,origin_login,origin_login_trigger,wrong_comment,error_msg,server_header,log,date
+testphp.vulnweb.com,unknown,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com/favicon.ico,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,-,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230512163036872.log,2023/05/12 16:30:36
+testphp.vulnweb.com,unknown,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,-,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230512163036935.log,2023/05/12 16:30:36

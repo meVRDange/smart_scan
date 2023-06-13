@@ -1,0 +1,358 @@
+fqdn,ip_addr,port,cloud_type,method,origin_url,url,vendor_name,prod_name,prod_version,prod_trigger,prod_type,prod_vuln,origin_login,origin_login_trigger,wrong_comment,error_msg,server_header,log,date
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190337460.log,2023/05/11 19:03:37
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190337460.log,2023/05/11 19:03:37
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/,nginx,nginx,*,nginx,Web,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190337460.log,2023/05/11 19:03:37
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190337460.log,2023/05/11 19:03:37
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/privacy.php,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190339293.log,2023/05/11 19:03:39
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/privacy.php,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190339293.log,2023/05/11 19:03:39
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/privacy.php,nginx,nginx,*,nginx,Web,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190339293.log,2023/05/11 19:03:39
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/privacy.php,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190339293.log,2023/05/11 19:03:39
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=3,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190340541.log,2023/05/11 19:03:40
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=3,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190340541.log,2023/05/11 19:03:40
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=3,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190340541.log,2023/05/11 19:03:40
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=3,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190340541.log,2023/05/11 19:03:40
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=3,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190340541.log,2023/05/11 19:03:40
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=3,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190340541.log,2023/05/11 19:03:40
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=2,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190341956.log,2023/05/11 19:03:41
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=2,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190341956.log,2023/05/11 19:03:41
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=2,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190341956.log,2023/05/11 19:03:41
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=2,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190341956.log,2023/05/11 19:03:41
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=2,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190341956.log,2023/05/11 19:03:41
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=2,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190341956.log,2023/05/11 19:03:41
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190343662.log,2023/05/11 19:03:43
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190343662.log,2023/05/11 19:03:43
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190343662.log,2023/05/11 19:03:43
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190343662.log,2023/05/11 19:03:43
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190343662.log,2023/05/11 19:03:43
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190343662.log,2023/05/11 19:03:43
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/cart.php,-,-,-,-,-,-,"Log : 37.5 %
+Url : 0.0 %","Log : log on@Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190345471.log,2023/05/11 19:03:45
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/cart.php,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 37.5 %
+Url : 0.0 %","Log : log on@Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190345471.log,2023/05/11 19:03:45
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/cart.php,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 37.5 %
+Url : 0.0 %","Log : log on@Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190345471.log,2023/05/11 19:03:45
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/cart.php,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 37.5 %
+Url : 0.0 %","Log : log on@Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190345471.log,2023/05/11 19:03:45
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/cart.php,-,-,-,-,-,-,"Log : 37.5 %
+Url : 0.0 %","Log : log on@Name'@Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190345471.log,2023/05/11 19:03:45
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/cart.php,-,-,-,-,-,-,"Log : 37.5 %
+Url : 0.0 %","Log : log on@Name'@Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190345471.log,2023/05/11 19:03:45
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/login.php,-,-,-,-,-,-,"Log : 50.0 %
+Url : 100.0 %","Log : username@Name""@<input name=""pass"" type=""password""@name""@<input type=""submit"" value=""login
+Url : login",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190346841.log,2023/05/11 19:03:46
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/login.php,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 50.0 %
+Url : 100.0 %","Log : username@Name""@<input name=""pass"" type=""password""@name""@<input type=""submit"" value=""login
+Url : login",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190346841.log,2023/05/11 19:03:46
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/login.php,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 50.0 %
+Url : 100.0 %","Log : username@Name""@<input name=""pass"" type=""password""@name""@<input type=""submit"" value=""login
+Url : login",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190346841.log,2023/05/11 19:03:46
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/login.php,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 50.0 %
+Url : 100.0 %","Log : username@Name""@<input name=""pass"" type=""password""@name""@<input type=""submit"" value=""login
+Url : login",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190346841.log,2023/05/11 19:03:46
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/login.php,-,-,-,-,-,-,"Log : 50.0 %
+Url : 100.0 %","Log : username@Name""@<input name=""pass"" type=""password""@name""@<input type=""submit"" value=""login
+Url : login",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190346841.log,2023/05/11 19:03:46
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/login.php,-,-,-,-,-,-,"Log : 50.0 %
+Url : 100.0 %","Log : username@Name""@<input name=""pass"" type=""password""@name""@<input type=""submit"" value=""login
+Url : login",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190346841.log,2023/05/11 19:03:46
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190348241.log,2023/05/11 19:03:48
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190348241.log,2023/05/11 19:03:48
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190348241.log,2023/05/11 19:03:48
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190348241.log,2023/05/11 19:03:48
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190348241.log,2023/05/11 19:03:48
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190348241.log,2023/05/11 19:03:48
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com/favicon.ico,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190349753.log,2023/05/11 19:03:49
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com/favicon.ico,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190349753.log,2023/05/11 19:03:49
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com/favicon.ico,nginx,nginx,*,nginx,Web,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190349753.log,2023/05/11 19:03:49
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=1,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190350843.log,2023/05/11 19:03:50
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=1,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190350843.log,2023/05/11 19:03:50
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=1,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190350843.log,2023/05/11 19:03:50
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=1,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190350843.log,2023/05/11 19:03:50
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=1,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190350843.log,2023/05/11 19:03:50
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=1,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190350843.log,2023/05/11 19:03:50
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=3,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190353842.log,2023/05/11 19:03:53
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=3,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190353842.log,2023/05/11 19:03:53
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=3,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190353842.log,2023/05/11 19:03:53
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=3,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190353842.log,2023/05/11 19:03:53
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=3,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190353842.log,2023/05/11 19:03:53
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=3,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190353842.log,2023/05/11 19:03:53
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/index.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190355255.log,2023/05/11 19:03:55
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/index.php,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190355255.log,2023/05/11 19:03:55
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/index.php,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190355255.log,2023/05/11 19:03:55
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/index.php,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190355255.log,2023/05/11 19:03:55
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/index.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190355255.log,2023/05/11 19:03:55
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/index.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190355255.log,2023/05/11 19:03:55
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/guestbook.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : name""@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190356880.log,2023/05/11 19:03:56
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/guestbook.php,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : name""@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190356880.log,2023/05/11 19:03:56
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/guestbook.php,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : name""@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190356880.log,2023/05/11 19:03:56
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/guestbook.php,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : name""@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190356880.log,2023/05/11 19:03:56
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/guestbook.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : name""@Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190356880.log,2023/05/11 19:03:56
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/guestbook.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : name""@Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190356880.log,2023/05/11 19:03:56
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=1,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190358412.log,2023/05/11 19:03:58
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=1,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190358412.log,2023/05/11 19:03:58
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=1,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190358412.log,2023/05/11 19:03:58
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=1,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190358412.log,2023/05/11 19:03:58
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=1,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190358412.log,2023/05/11 19:03:58
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/artists.php?artist=1,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190358412.log,2023/05/11 19:03:58
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=2,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190359948.log,2023/05/11 19:03:59
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=2,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190359948.log,2023/05/11 19:03:59
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=2,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190359948.log,2023/05/11 19:03:59
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=2,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190359948.log,2023/05/11 19:03:59
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=2,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190359948.log,2023/05/11 19:03:59
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=2,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name'@Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190359948.log,2023/05/11 19:03:59
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/disclaimer.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190401386.log,2023/05/11 19:04:01
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/disclaimer.php,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190401386.log,2023/05/11 19:04:01
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/disclaimer.php,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190401386.log,2023/05/11 19:04:01
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/disclaimer.php,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190401386.log,2023/05/11 19:04:01
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/disclaimer.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190401386.log,2023/05/11 19:04:01
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/disclaimer.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190401386.log,2023/05/11 19:04:01
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=4,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190402813.log,2023/05/11 19:04:02
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=4,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190402813.log,2023/05/11 19:04:02
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=4,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190402813.log,2023/05/11 19:04:02
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=4,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190402813.log,2023/05/11 19:04:02
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=4,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190402813.log,2023/05/11 19:04:02
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/listproducts.php?cat=4,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190402813.log,2023/05/11 19:04:02
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/hpp/,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190404234.log,2023/05/11 19:04:04
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/hpp/,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190404234.log,2023/05/11 19:04:04
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/hpp/,nginx,nginx,*,nginx,Web,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190404234.log,2023/05/11 19:04:04
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/hpp/,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190404234.log,2023/05/11 19:04:04
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/userinfo.php,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190405239.log,2023/05/11 19:04:05
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/userinfo.php,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190405239.log,2023/05/11 19:04:05
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/userinfo.php,nginx,nginx,*,nginx,Web,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190405239.log,2023/05/11 19:04:05
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/userinfo.php,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190405239.log,2023/05/11 19:04:05
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/categories.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190406124.log,2023/05/11 19:04:06
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/categories.php,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190406124.log,2023/05/11 19:04:06
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/categories.php,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190406124.log,2023/05/11 19:04:06
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/categories.php,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190406124.log,2023/05/11 19:04:06
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/categories.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190406124.log,2023/05/11 19:04:06
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/categories.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190406124.log,2023/05/11 19:04:06
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/signup.php,-,-,-,-,-,-,"Log : 37.5 %
+Url : 0.0 %","Log : name""@<input type=""password""@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190407682.log,2023/05/11 19:04:07
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/signup.php,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 37.5 %
+Url : 0.0 %","Log : name""@<input type=""password""@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190407682.log,2023/05/11 19:04:07
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/signup.php,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 37.5 %
+Url : 0.0 %","Log : name""@<input type=""password""@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190407682.log,2023/05/11 19:04:07
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/signup.php,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 37.5 %
+Url : 0.0 %","Log : name""@<input type=""password""@Name""
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190407682.log,2023/05/11 19:04:07
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/signup.php,-,-,-,-,-,-,"Log : 37.5 %
+Url : 0.0 %","Log : name""@<input type=""password""@Name""
+Url : -",-,"""<b>Warning</b>: This is not a real shop. This is an example PHP""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190407682.log,2023/05/11 19:04:07
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/signup.php,-,-,-,-,-,-,"Log : 37.5 %
+Url : 0.0 %","Log : name""@<input type=""password""@Name""
+Url : -",-,"""errors""",Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190407682.log,2023/05/11 19:04:07
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/AJAX/index.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : name'
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190409134.log,2023/05/11 19:04:09
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/AJAX/index.php,nginx,nginx,1.19.0,nginx/1.19.0,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : name'
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190409134.log,2023/05/11 19:04:09
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/AJAX/index.php,nginx,nginx,*,nginx,Web,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : name'
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190409134.log,2023/05/11 19:04:09
+testphp.vulnweb.com,44.228.249.3,80,Unknown,Crawling,http://testphp.vulnweb.com/,http://testphp.vulnweb.com:80/AJAX/index.php,php,php,5.6.40,PHP/5.6.40,Language,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : name'
+Url : -",-,-,Server: nginx/1.19.0,/home/anubhav/tools/GyoiThon/logs/testphp.vulnweb.com_80/http_testphp.vulnweb.com_80_20230511190409134.log,2023/05/11 19:04:09

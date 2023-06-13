@@ -1,0 +1,2668 @@
+-----[http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/]-----
+20230511190337460
+-----[http://testphp.vulnweb.com:80/privacy.php]-----
+20230511190339293
+-----[http://testphp.vulnweb.com:80/artists.php?artist=3]-----
+20230511190340541
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ end masthead 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=2]-----
+20230511190341956
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ end masthead 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php]-----
+20230511190343662
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ end masthead 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/cart.php]-----
+20230511190345471
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ end masthead 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/login.php]-----
+20230511190346841
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ end masthead 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/]-----
+20230511190348241
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ end masthead 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com/favicon.ico]-----
+20230511190349753
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=1]-----
+20230511190350843
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ end masthead 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=3]-----
+20230511190353842
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ end masthead 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/index.php]-----
+20230511190355255
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ end masthead 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/guestbook.php]-----
+20230511190356880
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ end masthead 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=1]-----
+20230511190358412
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ end masthead 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=2]-----
+20230511190359948
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ end masthead 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/disclaimer.php]-----
+20230511190401386
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ end masthead 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=4]-----
+20230511190402813
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ end masthead 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/hpp/]-----
+20230511190404234
+-----[http://testphp.vulnweb.com:80/userinfo.php]-----
+20230511190405239
+-----[http://testphp.vulnweb.com:80/categories.php]-----
+20230511190406124
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ end masthead 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/signup.php]-----
+20230511190407682
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ end masthead 
+end navbar 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/AJAX/index.php]-----
+20230511190409134
+	// free the curent one
+
+-----[http://testphp.vulnweb.com/favicon.ico]-----
+20230512163036872
+-----[http://testphp.vulnweb.com:80/]-----
+20230512163036935
+-----[http://testphp.vulnweb.com:80/privacy.php]-----
+20230512110509725
+-----[http://testphp.vulnweb.com:80/login.php]-----
+20230512110510981
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ here goes headers headers 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/]-----
+20230512110512743
+-----[http://testphp.vulnweb.com:80/artists.php?artist=3]-----
+20230512110514493
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ here goes headers headers 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com/favicon.ico]-----
+20230512110516291
+-----[http://testphp.vulnweb.com:80/]-----
+20230512110517562
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ here goes headers headers 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/artists.php]-----
+20230512110519281
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ here goes headers headers 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/hpp/]-----
+20230512110521368
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=1]-----
+20230512110522608
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=4]-----
+20230512110525938
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/disclaimer.php]-----
+20230512110527680
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ here goes headers headers 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/index.php]-----
+20230512110529550
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ here goes headers headers 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=1]-----
+20230512110531381
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ here goes headers headers 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/guestbook.php]-----
+20230512110533155
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=3]-----
+20230512110535149
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/categories.php]-----
+20230512110536875
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ here goes headers headers 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/signup.php]-----
+20230512110538848
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/AJAX/index.php]-----
+20230512110540649
+	// free the curent one
+
+-----[http://testphp.vulnweb.com:80/userinfo.php]-----
+20230512110542149
+-----[http://testphp.vulnweb.com:80/artists.php?artist=2]-----
+20230512110543314
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ here goes headers headers 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=2]-----
+20230512110545153
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/cart.php]-----
+20230512110547016
+end content 
+end navbar 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ here goes headers headers 
+ begin content 
+ InstanceEndEditable 
+ InstanceBeginEditable name="document_title_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/disclaimer.php]-----
+20230512112141022
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/login.php]-----
+20230512112142914
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/signup.php]-----
+20230512112144660
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/AJAX/index.php]-----
+20230512112146581
+	// free the curent one
+
+-----[http://testphp.vulnweb.com:80/index.php]-----
+20230512112148040
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php]-----
+20230512112149771
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=1]-----
+20230512112151794
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=3]-----
+20230512112153920
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/hpp/]-----
+20230512112155631
+-----[http://testphp.vulnweb.com:80/userinfo.php]-----
+20230512112156988
+-----[http://testphp.vulnweb.com:80/cart.php]-----
+20230512112158188
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=4]-----
+20230512112200399
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=2]-----
+20230512112202223
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=3]-----
+20230512112203970
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/guestbook.php]-----
+20230512112205797
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=2]-----
+20230512112207654
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/privacy.php]-----
+20230512112209502
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=1]-----
+20230512112210677
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/]-----
+20230512112213908
+-----[http://testphp.vulnweb.com:80/]-----
+20230512112215871
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com/favicon.ico]-----
+20230512112217587
+-----[http://testphp.vulnweb.com:80/categories.php]-----
+20230512112218945
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceEndEditable 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+end content 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/privacy.php]-----
+20230512112534462
+-----[http://testphp.vulnweb.com:80/hpp/]-----
+20230512112535702
+-----[http://testphp.vulnweb.com:80/artists.php]-----
+20230512112536989
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/userinfo.php]-----
+20230512112539091
+-----[http://testphp.vulnweb.com:80/]-----
+20230512112540367
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/]-----
+20230512112542209
+-----[http://testphp.vulnweb.com:80/artists.php?artist=2]-----
+20230512112543988
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/categories.php]-----
+20230512112545834
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/cart.php]-----
+20230512112547772
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com/favicon.ico]-----
+20230512112549511
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=4]-----
+20230512112551045
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=1]-----
+20230512112552784
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/AJAX/index.php]-----
+20230512112554940
+	// free the curent one
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=3]-----
+20230512112556422
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/login.php]-----
+20230512112558199
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/guestbook.php]-----
+20230512112600000
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=1]-----
+20230512112601904
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=3]-----
+20230512112605212
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=2]-----
+20230512112606912
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/disclaimer.php]-----
+20230512112608859
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/signup.php]-----
+20230512112610859
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/index.php]-----
+20230512112612731
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=3]-----
+20230512121102629
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ here goes headers headers 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/guestbook.php]-----
+20230512121106073
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/]-----
+20230512121108044
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ here goes headers headers 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=2]-----
+20230512121109988
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/signup.php]-----
+20230512121112150
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=1]-----
+20230512121114013
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/hpp/]-----
+20230512121118217
+-----[http://testphp.vulnweb.com:80/privacy.php]-----
+20230512121120411
+-----[http://testphp.vulnweb.com:80/userinfo.php]-----
+20230512121121848
+-----[http://testphp.vulnweb.com:80/artists.php?artist=2]-----
+20230512121123062
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ here goes headers headers 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/categories.php]-----
+20230512121124808
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ here goes headers headers 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=1]-----
+20230512121126891
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ here goes headers headers 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/]-----
+20230512121128729
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=4]-----
+20230512121130994
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com/favicon.ico]-----
+20230512121133109
+-----[http://testphp.vulnweb.com:80/login.php]-----
+20230512121134426
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ here goes headers headers 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/AJAX/index.php]-----
+20230512121136432
+	// free the curent one
+
+-----[http://testphp.vulnweb.com:80/disclaimer.php]-----
+20230512121137881
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ here goes headers headers 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php]-----
+20230512121139524
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ here goes headers headers 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/index.php]-----
+20230512121141955
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ here goes headers headers 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=3]-----
+20230512121143795
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/cart.php]-----
+20230512121145401
+ InstanceBeginEditable name="content_rgn" 
+ begin content 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end navbar 
+ here goes headers headers 
+ InstanceEndEditable 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/hpp/]-----
+20230512122556458
+-----[http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/]-----
+20230512122558147
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=4]-----
+20230512122559880
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ begin content 
+ end masthead 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com/favicon.ico]-----
+20230512122601811
+-----[http://testphp.vulnweb.com:80/artists.php?artist=3]-----
+20230512122603365
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceEnd 
+ here goes headers headers 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ end masthead 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/index.php]-----
+20230512122605463
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceEnd 
+ here goes headers headers 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ end masthead 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=1]-----
+20230512122607274
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceEnd 
+ here goes headers headers 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ end masthead 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/privacy.php]-----
+20230512122609319
+-----[http://testphp.vulnweb.com:80/artists.php]-----
+20230512122610941
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceEnd 
+ here goes headers headers 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ end masthead 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/userinfo.php]-----
+20230512122613688
+-----[http://testphp.vulnweb.com:80/signup.php]-----
+20230512122615669
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ begin content 
+ end masthead 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/guestbook.php]-----
+20230512122618034
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ begin content 
+ end masthead 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=1]-----
+20230512122620281
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ begin content 
+ end masthead 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/disclaimer.php]-----
+20230512122624084
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceEnd 
+ here goes headers headers 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ end masthead 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/login.php]-----
+20230512122625733
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceEnd 
+ here goes headers headers 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ end masthead 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=3]-----
+20230512122627525
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ begin content 
+ end masthead 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/cart.php]-----
+20230512122629207
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceEnd 
+ here goes headers headers 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ end masthead 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/AJAX/index.php]-----
+20230512122630997
+	// free the curent one
+
+-----[http://testphp.vulnweb.com:80/categories.php]-----
+20230512122632685
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceEnd 
+ here goes headers headers 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ end masthead 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=2]-----
+20230512122634767
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceEnd 
+ here goes headers headers 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ end masthead 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/]-----
+20230512122637131
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceEnd 
+ here goes headers headers 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ end masthead 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=2]-----
+20230512122639011
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ InstanceEndEditable 
+ InstanceEnd 
+ InstanceBeginEditable name="headers_rgn" 
+end content 
+ begin content 
+ end masthead 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/guestbook.php]-----
+20230512124449525
+ InstanceEndEditable 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/]-----
+20230512124452742
+-----[http://testphp.vulnweb.com:80/hpp/]-----
+20230512124456406
+-----[http://testphp.vulnweb.com:80/userinfo.php]-----
+20230512124458527
+-----[http://testphp.vulnweb.com/favicon.ico]-----
+20230512124500355
+-----[http://testphp.vulnweb.com:80/categories.php]-----
+20230512124503105
+ InstanceEndEditable 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="headers_rgn" 
+ end masthead 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=3]-----
+20230512124508476
+ InstanceEndEditable 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=4]-----
+20230512124511447
+ InstanceEndEditable 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/signup.php]-----
+20230512124513900
+ InstanceEndEditable 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=1]-----
+20230512124516643
+ InstanceEndEditable 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="headers_rgn" 
+ end masthead 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=2]-----
+20230512124518690
+ InstanceEndEditable 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/AJAX/index.php]-----
+20230512124521775
+	// free the curent one
+
+-----[http://testphp.vulnweb.com:80/index.php]-----
+20230512124528774
+ InstanceEndEditable 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="headers_rgn" 
+ end masthead 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/disclaimer.php]-----
+20230512124531750
+ InstanceEndEditable 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="headers_rgn" 
+ end masthead 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/cart.php]-----
+20230512124537083
+ InstanceEndEditable 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="headers_rgn" 
+ end masthead 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=2]-----
+20230512124539096
+ InstanceEndEditable 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="headers_rgn" 
+ end masthead 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/privacy.php]-----
+20230512124541261
+-----[http://testphp.vulnweb.com:80/artists.php]-----
+20230512124543575
+ InstanceEndEditable 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="headers_rgn" 
+ end masthead 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/login.php]-----
+20230512124545920
+ InstanceEndEditable 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="headers_rgn" 
+ end masthead 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/]-----
+20230512124547513
+ InstanceEndEditable 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="headers_rgn" 
+ end masthead 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=1]-----
+20230512124549350
+ InstanceEndEditable 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=3]-----
+20230512124553681
+ InstanceEndEditable 
+ here goes headers headers 
+end navbar 
+ InstanceEnd 
+end content 
+ InstanceBeginEditable name="content_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ InstanceBeginEditable name="headers_rgn" 
+ end masthead 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ begin content 
+ //reloads the window if Nav4 resized
+
+
+//-->
+
+-----[http://testphp.vulnweb.com:80/index.php]-----
+20230512135516302
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=3]-----
+20230512135517629
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/categories.php]-----
+20230512135519070
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/disclaimer.php]-----
+20230512135520512
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=1]-----
+20230512135521918
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/hpp/]-----
+20230512135524253
+-----[http://testphp.vulnweb.com:80/guestbook.php]-----
+20230512135525299
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/privacy.php]-----
+20230512135526668
+-----[http://testphp.vulnweb.com:80/cart.php]-----
+20230512135527749
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=2]-----
+20230512135529051
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/AJAX/index.php]-----
+20230512135530749
+	// free the curent one
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=3]-----
+20230512135532362
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/]-----
+20230512135533762
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=1]-----
+20230512135535425
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com/favicon.ico]-----
+20230512135536904
+-----[http://testphp.vulnweb.com:80/login.php]-----
+20230512135537953
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/artists.php]-----
+20230512135539342
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ here goes headers headers 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/userinfo.php]-----
+20230512135541292
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=4]-----
+20230512135542286
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=2]-----
+20230512135543621
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/signup.php]-----
+20230512135545111
+ InstanceEndEditable 
+ InstanceEnd 
+end content 
+ begin content 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+end navbar 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBeginEditable name="document_title_rgn" 
+ end masthead 
+ InstanceBeginEditable name="content_rgn" 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/]-----
+20230512135546583
+-----[http://testphp.vulnweb.com:80/cart.php]-----
+20230512172507437
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=2]-----
+20230512172509109
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/artists.php]-----
+20230512172510843
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com/favicon.ico]-----
+20230512172512821
+-----[http://testphp.vulnweb.com:80/disclaimer.php]-----
+20230512172514031
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/index.php]-----
+20230512172515564
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/artists.php?artist=2]-----
+20230512172517096
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/login.php]-----
+20230512172518729
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/signup.php]-----
+20230512172520367
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/]-----
+20230512172522046
+-----[http://testphp.vulnweb.com:80/artists.php?artist=1]-----
+20230512172523915
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=3]-----
+20230512172525981
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/privacy.php]-----
+20230512172527852
+-----[http://testphp.vulnweb.com:80/artists.php?artist=3]-----
+20230512172529063
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/categories.php]-----
+20230512172530730
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/userinfo.php]-----
+20230512172532406
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=4]-----
+20230512172533567
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/]-----
+20230512172535260
+ here goes headers headers 
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/guestbook.php]-----
+20230512172537186
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
+-----[http://testphp.vulnweb.com:80/hpp/]-----
+20230512172540645
+-----[http://testphp.vulnweb.com:80/AJAX/index.php]-----
+20230512172542125
+	// free the curent one
+
+-----[http://testphp.vulnweb.com:80/listproducts.php?cat=1]-----
+20230512172543888
+ InstanceEnd 
+ InstanceBeginEditable name="document_title_rgn" 
+ begin content 
+ InstanceBeginEditable name="content_rgn" 
+end navbar 
+ InstanceEndEditable 
+ InstanceBeginEditable name="headers_rgn" 
+ InstanceBegin template="/Templates/main_dynamic_template.dwt.php" codeOutsideHTMLIsLocked="false" 
+ end masthead 
+end content 
+
+//-->
+
+ //reloads the window if Nav4 resized
+
